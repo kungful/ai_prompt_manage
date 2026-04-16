@@ -90,7 +90,7 @@ GUI_Cover/
 
 - 🐛 [提交 Issue](https://github.com/kungful/ai_prompt_manage/issues)
 - ⭐ [提交 PR](https://github.com/kungful/ai_prompt_manage/pulls)
-- 📧 联系邮箱: kungful@email.com
+- 📧 联系邮箱: blenderkrita@gmail.com
 
 ## 支持项目
 
