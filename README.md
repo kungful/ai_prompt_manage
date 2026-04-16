@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](ui.png)
+![Logo](https://github.com/kungful/ai_prompt_manage/blob/b567880fb0cd0997ce09f462547dd96f61ead5a5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-16%20223756.png)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
@@ -23,7 +23,7 @@
 
 ## 界面预览
 
-![界面预览](ui.png)
+![界面预览](https://github.com/kungful/ai_prompt_manage/blob/b567880fb0cd0997ce09f462547dd96f61ead5a5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-16%20223756.png)
 
 ## 安装使用
 
